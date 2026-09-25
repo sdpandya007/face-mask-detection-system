@@ -6,8 +6,7 @@ The system captures an image through the user's camera, detects faces using Open
 
 The application provides a clear screening result with detection confidence and an overall compliance decision.
 
-## Live 
-(https://face-mask-detection-yqum2z76nympbrbx3peqql.streamlit.app/)
+
 
 ## Overview
 
